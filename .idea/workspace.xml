@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53f23ec2-f954-46a1-a1b0-10d9e83a9fdb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/xfz/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/xfz/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="53f23ec2-f954-46a1-a1b0-10d9e83a9fdb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +54,7 @@
           <entry key="conf" value="57" />
           <entry key="html" value="141" />
           <entry key="ini" value="83" />
-          <entry key="py" value="71" />
+          <entry key="py" value="82" />
           <entry key="scss" value="122" />
         </counts>
       </usages-collector>
@@ -65,7 +63,7 @@
           <entry key="HTML" value="141" />
           <entry key="Ini" value="83" />
           <entry key="PLAIN_TEXT" value="57" />
-          <entry key="Python" value="71" />
+          <entry key="Python" value="82" />
           <entry key="SCSS" value="122" />
         </counts>
       </usages-collector>
@@ -77,7 +75,7 @@
           <entry key="ini" value="2" />
           <entry key="js" value="1" />
           <entry key="json" value="1" />
-          <entry key="py" value="8" />
+          <entry key="py" value="10" />
           <entry key="scss" value="3" />
         </counts>
       </usages-collector>
@@ -88,7 +86,7 @@
           <entry key="JSON" value="1" />
           <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="8" />
+          <entry key="Python" value="10" />
           <entry key="SCSS" value="3" />
         </counts>
       </usages-collector>
@@ -96,18 +94,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/front/templates/base/front_base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-              <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/front/src/css/common/footer.scss">
           <provider selected="true" editor-type-id="text-editor">
@@ -132,8 +118,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xfz/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="324">
+              <caret line="45" column="19" lean-forward="true" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -157,6 +143,20 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/ueditor/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/ueditor/urls.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/front/templates/payinfo/payinfo.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -173,15 +173,6 @@
               <folding>
                 <element signature="n#block#2;n#!!top" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/front/templates/news/news_detail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -236,9 +227,9 @@
       <path value="$PROJECT_DIR$/front/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1051" />
-    <option name="y" value="126" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="65" />
+    <option name="y" value="4" />
     <option name="width" value="1807" />
     <option name="height" value="973" />
   </component>
@@ -259,77 +250,18 @@
             <path>
               <item name="xfz" type="b2602c69:ProjectViewProjectNode" />
               <item name="xfz" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="xfz" type="b2602c69:ProjectViewProjectNode" />
               <item name="xfz" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="ueditor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="xfz" type="b2602c69:ProjectViewProjectNode" />
               <item name="xfz" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xfz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xfz" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xfz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xfz" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="news" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xfz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xfz" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xfz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xfz" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xfz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xfz" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xfz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xfz" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="course" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xfz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xfz" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="news" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xfz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xfz" type="462c0819:PsiDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="payinfo" type="462c0819:PsiDirectoryNode" />
+              <item name="whoosh_index" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="xfz" type="b2602c69:ProjectViewProjectNode" />
@@ -401,7 +333,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1051" y="126" width="1807" height="973" extended-state="0" />
+    <frame x="65" y="4" width="1807" height="973" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2552948" />
@@ -409,7 +341,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27194068" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27088305" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -418,7 +350,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.31742242" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.31742242" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -485,13 +417,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/ueditor/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198">
-          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -590,10 +515,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/apps/ueditor/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/ueditor/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/xfz/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="324">
+          <caret line="45" column="19" lean-forward="true" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
         </state>
       </provider>
     </entry>
