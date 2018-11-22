@@ -1,5 +1,5 @@
 #encoding: utf-8
-
+from django.views.decorators.csrf import csrf_exempt
 from django.contrib.auth import login,logout,authenticate
 from django.views.decorators.http import require_POST
 from .forms import LoginForm,RegisterForm
@@ -19,6 +19,7 @@ User = get_user_model()
 # {"code":400,"message":"","data":{}}
 
 @require_POST
+@csrf_exempt
 def login_view(request):
     form = LoginForm(request.POST)
     if form.is_valid():
