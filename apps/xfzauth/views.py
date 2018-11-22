@@ -91,7 +91,7 @@ def sms_captcha(request):
     code = Captcha.gene_text()
     cache.set(telephone,code,5*60)
     print('短信验证码：',code)
-    # result = aliyunsms.send_sms(telephone,code)
+    result = aliyunsms.send_sms(telephone,code)
     return restful.ok()
 
 
