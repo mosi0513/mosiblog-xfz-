@@ -19,6 +19,7 @@ User = get_user_model()
 # {"code":400,"message":"","data":{}}
 
 @require_POST
+@csrf_exempt
 def login_view(request):
     form = LoginForm(request.POST)
     if form.is_valid():
