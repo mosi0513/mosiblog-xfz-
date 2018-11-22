@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '45$x68m0#&6s6ddde9q5@h^8@sx0q-9ai@&k-)@3_(mxz=7@jo'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1','119.23.54.123']
 
@@ -156,6 +156,7 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR,'front','dist')
 ]
 
+# 服务端收集静态文件地址
 STATIC_ROOT =os.path.join(BASE_DIR,'static_dist')
 
 
