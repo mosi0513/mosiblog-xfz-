@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53f23ec2-f954-46a1-a1b0-10d9e83a9fdb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xfz/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/xfz/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,7 +57,7 @@
           <entry key="conf" value="57" />
           <entry key="html" value="141" />
           <entry key="ini" value="83" />
-          <entry key="py" value="85" />
+          <entry key="py" value="92" />
           <entry key="scss" value="122" />
         </counts>
       </usages-collector>
@@ -65,7 +66,7 @@
           <entry key="HTML" value="141" />
           <entry key="Ini" value="83" />
           <entry key="PLAIN_TEXT" value="57" />
-          <entry key="Python" value="85" />
+          <entry key="Python" value="92" />
           <entry key="SCSS" value="122" />
         </counts>
       </usages-collector>
@@ -99,8 +100,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xfz/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="53" column="52" lean-forward="true" selection-start-line="53" selection-start-column="52" selection-end-line="53" selection-end-column="52" />
+            <state relative-caret-position="180">
+              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -225,7 +226,7 @@
       <path value="$PROJECT_DIR$/front/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="411" />
     <option name="y" value="211" />
     <option name="width" value="1807" />
@@ -334,12 +335,12 @@
     <frame x="411" y="211" width="1807" height="914" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2552948" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2552948" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29139924" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29139924" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -362,6 +363,17 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/xfz/settings.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/1-后端实战（3）.txt" />
@@ -547,8 +559,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xfz/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="53" column="52" lean-forward="true" selection-start-line="53" selection-start-column="52" selection-end-line="53" selection-end-column="52" />
+        <state relative-caret-position="180">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
         </state>
       </provider>
     </entry>
