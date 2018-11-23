@@ -3,19 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="53f23ec2-f954-46a1-a1b0-10d9e83a9fdb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/dist/css/common/footer.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/front/dist/css/common/footer.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/dist/css/common/header.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/front/dist/css/common/header.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/dist/css/course/course_detail.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/front/dist/css/course/course_detail.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/dist/css/course/course_index.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/front/dist/css/course/course_index.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/dist/css/news/index.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/front/dist/css/news/index.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/dist/css/news/news_detail.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/front/dist/css/news/news_detail.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/dist/css/payinfo/payinfo.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/front/dist/css/payinfo/payinfo.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/dist/css/search/search.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/front/dist/css/search/search.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/dist/js/banners.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/dist/js/banners.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/dist/js/front_base.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/dist/js/front_base.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/templates/base/front_base.html" beforeDir="false" afterPath="$PROJECT_DIR$/front/templates/base/front_base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/templates/common/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/front/templates/common/sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/templates/news/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/front/templates/news/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfz/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/xfz/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +61,7 @@
           <entry key="html" value="178" />
           <entry key="ini" value="83" />
           <entry key="js" value="436" />
-          <entry key="py" value="104" />
+          <entry key="py" value="109" />
           <entry key="scss" value="159" />
         </counts>
       </usages-collector>
@@ -83,7 +71,7 @@
           <entry key="Ini" value="83" />
           <entry key="JavaScript" value="436" />
           <entry key="PLAIN_TEXT" value="57" />
-          <entry key="Python" value="104" />
+          <entry key="Python" value="109" />
           <entry key="SCSS" value="159" />
         </counts>
       </usages-collector>
@@ -180,7 +168,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xfz/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
+            <state relative-caret-position="234">
               <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
@@ -263,7 +251,7 @@
       <path value="$PROJECT_DIR$/front/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="1117" />
     <option name="y" value="56" />
     <option name="width" value="1243" />
@@ -777,7 +765,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xfz/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
+        <state relative-caret-position="234">
           <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
