@@ -12,6 +12,7 @@
     {% block head %}{% endblock %}
 </head>
 <body>
+    <div class="container">
     <header class="header">
         <div class="container">
             <div class="logo-box">
@@ -19,7 +20,7 @@
             </div>
 
             <ul class="nav">
-                <li class="active"><a href="/">首页文章</a></li>
+                <li><a href="/">首页文章</a></li>
                 <li><a href="{% url 'course:course_index' %}">技术视频</a></li>
                 <li><a href="{% url 'payinfo:index' %}">文件下载</a></li>
                 <li><a href="/search/">搜索</a></li>
@@ -47,10 +48,10 @@
     <footer class="footer">
 
         <div class="bottom-group">
-            ©2013 美国加里盾科技有限公司 鄂ICP备1505132号-1
+            磨斯个人博客
         </div>
     </footer>
-<div class="mask-wrapper">
+    <div class="mask-wrapper">
         <div class="auth-wrapper">
             <div class="close-wrapper">
                 <span class="close-btn icon-close iconfont"></span>
@@ -122,6 +123,7 @@
                 </div>
             </div>
         </div>
+    </div>
     </div>
 </body>
 </html>
